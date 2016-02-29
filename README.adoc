@@ -1,0 +1,7 @@
+# alpine-base
+
+Serves as source repo for automated docker image builds on https://hub.docker.com/u/josefcs/.
+
+Base image for various docker projects.
+
+Based on gliderlabs/alpine:3.3, the only thing this image does right now, is to set the timezone to europe/brussels.
